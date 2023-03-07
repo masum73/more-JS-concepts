@@ -1,0 +1,13 @@
+JavaScript is a 
+JIT(Just In Time) complied 
+Multi-paradigm 
+Prototype-based 
+Dynamically-typed 
+High Abstraction
+Garbage Collection
+Language 
+
+JS uses V8 engine in chorome to execute code
+
+JS have 2 context - global context, anywhere it can be used 
+functional context, in function it can be used
